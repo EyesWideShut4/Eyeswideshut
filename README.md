@@ -1,2 +1,2 @@
-# EEEEE motshwaping
+# Eyeswideshut
 First github pages repostry 
